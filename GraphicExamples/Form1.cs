@@ -22,7 +22,7 @@ namespace GraphicExamples
             //Graphics Objects
             Graphics g = this.CreateGraphics();
             Pen drawPen = new Pen(Color.Red, 10);
-            SolidBrush drawBrush = new SolidBrush(Color.Black);//
+            SolidBrush drawBrush = new SolidBrush(Color.Black);
             Font drawFont = new Font("Arial", 25, FontStyle.Bold);
 
             //Shapes and lines
